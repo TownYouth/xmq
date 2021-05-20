@@ -1,0 +1,13 @@
+:root {
+    --baseColor: rgba(24, 144, 255, 1);
+    --baseColor_border: rgba(24, 144, 255, 0.5);
+    --baseColor_bg: rgba(24, 144, 255, 0.2);
+    --baseColor_active: rgba(24, 144, 255, 0.8);
+}
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1200px;
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
